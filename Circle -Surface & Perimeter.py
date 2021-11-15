@@ -1,6 +1,6 @@
 x = 3.14
 
-r = float(input("Enter the radious  : "))
+r = float(input("Enter the radius  : "))
 p = 2*x*r
 s = x * (r*r)
 
